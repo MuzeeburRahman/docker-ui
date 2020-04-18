@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "docker1"
+    }
+  },
+  "defaultProject": "docker1",
+  "cli": {
+    "analytics": "cc600493-b1d0-4038-be9e-5d36a7f272ea"
+  }
 }
